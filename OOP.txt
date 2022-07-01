@@ -1,0 +1,12 @@
+OOP's 3 basic properties
+
+1- Encapsulation	:	Make sure properties of a class is secured and cannot have any value that cannot be used by the class
+
+2- Inheritance		:	Programs inherit properties from previous versions of other programs which increases reusability. 
+						All classes can have a base class which they inherit all of their properties.
+						Base Class >> Derived Class ; when a derived class is created a base class is also created.
+						When using both base class and derived class; set common properties in base class and base class
+						should not have any instance. Derived classes and their instances should be used in code and base code
+						only used for changing/creating properties for all derived classes.
+
+3- Polymorphism		:	
